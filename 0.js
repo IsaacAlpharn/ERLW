@@ -40,6 +40,7 @@
 		["ventilating lung", 10],
 		["winged boots", 10],
 		["amulet of health", 14],
+		["arcane propulsion arm", 14],
 		["belt of giant strength", 14, "hill (str 21, rare)"],
 		["boots of levitation", 14],
 		["boots of speed", 14],
